@@ -16,9 +16,11 @@ A simple website that allows users to copy paste youtube url links from the vide
 
 ## Features
 
--A user friendly interface
--A form to paste youtube url links
--A download button
+-A user friendly interface, 
+-Form to paste youtube url links,
+-Save directory path,
+-Choose resolution/video quality,
+-download button
 
 ## Installation
 
