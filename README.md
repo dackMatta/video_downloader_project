@@ -1,6 +1,6 @@
 # Youtube Video Downloader
-
-This Python script allows you to download YouTube videos to your local machine. It uses the pytube library to interact with YouTube.
+This is a website that allows users to downoload vidoes from youtube
+Built using the django framework.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
