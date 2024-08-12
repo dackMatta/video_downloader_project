@@ -1,0 +1,4 @@
+django
+pytube
+tkinter
+tqdm

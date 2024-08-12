@@ -7,8 +7,9 @@ import tkinter as tk
 # Import filedialog module from tkinter for creating file dialogs
 from tkinter import filedialog
 
-# Import tqdm library for displaying progress bars
+# Import tqdm library for displaying progress bar
 from tqdm import tqdm
+
 
 # Define a function to download a video from YouTube
 def download_video(url, save_path):
